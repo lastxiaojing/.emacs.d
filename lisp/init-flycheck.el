@@ -1,3 +1,6 @@
+;; init-flycheck.el --- Initialize flycheck configurations.
+;;; Commentary: 检查设置
+;;; Code:
 (use-package flycheck
   :diminish flycheck-mode
   :init (add-hook 'after-init-hook #'global-flycheck-mode)

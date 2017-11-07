@@ -1,3 +1,7 @@
+;; init-shell.el --- Initialize shell configurations.
+;;; Commentary: shell
+;;; Code:
+
 (eval-when-compile (require 'init-const))
 
 (use-package shell

@@ -1,3 +1,6 @@
+;; init-ui.el --- Initialize ui configurations.
+;;; Commentary: ui 设置
+;;; Code:
 (eval-when-compile
   (require 'init-const)
   (require 'init-custom))

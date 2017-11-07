@@ -1,3 +1,7 @@
+;; init-eshell.el --- Initialize eshell configurations.
+;;; Commentary: eshell设置
+;;; Code:
+
 ;; Emacs command shell
 (use-package eshell
   :ensure nil

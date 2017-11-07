@@ -1,3 +1,6 @@
+;; init-ibuffer.el --- Initialize ibuffer configurations.
+;;; Commentary: 缓冲区设置
+;;; Code:
 (use-package ibuffer-projectile
   :bind ("C-x C-b" . ibuffer)
   :init

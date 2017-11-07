@@ -1,3 +1,7 @@
+;; init-custom.el --- Initialize custom configurations.
+;;; Commentary: 个性设置
+;;; Code:
+
 ;; 定制
 (defgroup my nil
   "Presonal Emacs configurations."

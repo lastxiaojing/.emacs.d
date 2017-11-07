@@ -1,3 +1,7 @@
+;; init-package.el --- Initialize package configurations.
+;;; Commentary: 安装包
+;;; Code:
+
 ;; 插件/包设置
 (eval-when-compile (require 'init-custom))
 

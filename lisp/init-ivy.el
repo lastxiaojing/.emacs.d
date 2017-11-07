@@ -1,3 +1,7 @@
+;; init-ivy.el --- Initialize ivy configurations.
+;;; Commentary: ivy
+;;; Code:
+
 (use-package counsel
   :diminish ivy-mode counsel-mode
   :bind (("C-s" . counsel-grep-or-swiper)

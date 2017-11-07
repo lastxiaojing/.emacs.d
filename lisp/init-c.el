@@ -1,3 +1,7 @@
+;; init-c.el --- Initialize c configurations
+;;; Commentary: c/c++配置
+;;; Code:
+
 ;; C/C++ Mode
 (use-package cc-mode
   :ensure nil

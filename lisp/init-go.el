@@ -1,5 +1,6 @@
+;; init-go.el --- Initialize go configurations.
+;;; Commentary: goLang设置
 ;;; Code:
-
 (use-package go-mode
   :bind (:map go-mode-map
               ("M-." . godef-jump)

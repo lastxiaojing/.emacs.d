@@ -1,3 +1,7 @@
+;; init-restore.el --- Initialize restore configurations.
+;;; Commentary: restore
+;;; Code:
+
 ;; Save and restore status
 (use-package desktop
   :ensure nil

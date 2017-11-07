@@ -1,5 +1,6 @@
+;; init-basic.el --- 基础设置
+;;; Commentary: Basic configurations.
 ;;; Code:
-;;; 基础设置
 (eval-when-compile
   (require 'init-const)
   (require 'init-custom))

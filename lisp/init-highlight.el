@@ -1,3 +1,6 @@
+;; init-hightlight.el --- Initialize hightlight configurations.
+;;; Commentary: 高亮设置
+;;; Code:
 ;; Highlight the current line
 (use-package hl-line
   :ensure nil

@@ -1,4 +1,7 @@
-;; 常量设置
+;; init-const.el --- Initialize Desfine constants configurations.
+;;; Commentary: 常量配置
+;;; Code:
+
 (defconst sys/win32p
   (eq system-type 'windows-nt)
   "Are we running on a WinTel system?")

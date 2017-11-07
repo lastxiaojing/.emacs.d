@@ -1,3 +1,7 @@
+;; init-python.el --- Initialize python configurations.
+;;; Commentary: python
+;;; Code:
+
 (use-package python
   :ensure nil
   :defines gud-pdb-command-name pdb-path

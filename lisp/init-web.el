@@ -1,3 +1,7 @@
+;; init-web.el --- Initialize web configurations.
+;;; Commentary: web
+;;; Code:
+
 ;; CSS mode
 (use-package css-mode
   :ensure nil

@@ -1,3 +1,7 @@
+;; init-dired.el --- Initialize dired configurations.
+;;; Commentary: 目录设置
+;;; Code:
+
 (eval-when-compile (require 'init-const))
 
 ;; Directory operations

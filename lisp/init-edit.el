@@ -1,3 +1,7 @@
+;; init-edit.el --- Initialize edit configurations.
+;;; Commentary: 编辑设置
+;;; Code:
+
 ;; 编辑设置
 ;; Explicitly set the prefered coding systems to avoid annoying prompt
 ;; from emacs (especially on Microsoft Windows)

@@ -1,3 +1,7 @@
+;; init-window.el --- Initialize window configurations.
+;;; Commentary: window
+;;; Code:
+
 ;; Directional window-selection routines
 (use-package windmove
   :ensure nil

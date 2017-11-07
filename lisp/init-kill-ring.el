@@ -1,3 +1,7 @@
+;; init-kill-ring.el --- Initialize kill ring configurations.
+;;; Commentary: kill ring
+;;; Code:
+
 ;; (setq kill-ring-max 200)
 ;; Save clipboard contents into kill-ring before replace them
 (setq save-interprogram-paste-before-kill t)

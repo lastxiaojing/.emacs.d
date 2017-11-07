@@ -1,3 +1,5 @@
+;; init-company.el --- Initialize company configurations.
+;;; Commentary: 补全配置
 ;;; Code:
 
 (use-package company
