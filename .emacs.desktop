@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Nov  7 08:51:31 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/data/zhaojingzhen/.emacs.d/lisp/init-php.el" "/data/zhaojingzhen/.emacs.d/lisp/init-flycheck.el" "/data/zhaojingzhen/.emacs.d/lisp/init-window.el" "/data/zhaojingzhen/.emacs.d/lisp/init-yasnippet.el" "/data/zhaojingzhen/.emacs.d/init.el" "/data/zhaojingzhen/.emacs.d/lisp/" "~/.emacs.d/lisp/init-ui.el" "~/.emacs.d/lisp/init-basic.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/data/zhaojingzhen/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(override-global-mode persistent-scratch-autosave-mode whitespace-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode symbol-overlay-mode subword-mode goto-address-prog-mode rainbow-mode yas-minor-mode flycheck-mode volatile-highlights-mode diff-hl-mode diff-hl-flydiff-mode diff-hl-margin-mode diff-hl-margin-minor-mode indent-guide-mode company-mode ivy-mode counsel-mode undo-tree-mode hungry-delete-mode drag-stuff-mode anzu-mode ace-pinyin-mode global-auto-revert-mode linum-mode aggressive-indent-mode)
+  1416
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/data/zhaojingzhen/Documents/php/test_1/test.php"
+  "test.php"
+  'text-mode
+  '(auto-fill-mode override-global-mode persistent-scratch-autosave-mode goto-address-mode yas-minor-mode flycheck-mode volatile-highlights-mode diff-hl-mode diff-hl-flydiff-mode diff-hl-margin-mode diff-hl-margin-minor-mode indent-guide-mode company-mode ivy-mode counsel-mode undo-tree-mode hungry-delete-mode drag-stuff-mode anzu-mode ace-pinyin-mode global-auto-revert-mode)
+  157
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/data/zhaojingzhen/.emacs.d/lisp/init-php.el"
+  "init-php.el"
+  'emacs-lisp-mode
+  '(override-global-mode persistent-scratch-autosave-mode whitespace-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode symbol-overlay-mode subword-mode goto-address-prog-mode rainbow-mode yas-minor-mode flycheck-mode volatile-highlights-mode diff-hl-mode diff-hl-flydiff-mode diff-hl-margin-mode diff-hl-margin-minor-mode indent-guide-mode company-mode ivy-mode counsel-mode undo-tree-mode hungry-delete-mode drag-stuff-mode anzu-mode ace-pinyin-mode global-auto-revert-mode linum-mode aggressive-indent-mode)
+  44
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/data/zhaojingzhen/Documents/go/test_http_inner_router.go"
+  "test_http_inner_router.go"
+  'go-mode
+  '(eldoc-mode override-global-mode persistent-scratch-autosave-mode whitespace-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode symbol-overlay-mode subword-mode goto-address-prog-mode yas-minor-mode flycheck-mode volatile-highlights-mode diff-hl-mode diff-hl-flydiff-mode diff-hl-margin-mode diff-hl-margin-minor-mode indent-guide-mode company-mode ivy-mode counsel-mode undo-tree-mode hungry-delete-mode drag-stuff-mode anzu-mode ace-pinyin-mode global-auto-revert-mode linum-mode aggressive-indent-mode)
+  589
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
